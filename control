@@ -1,0 +1,11 @@
+Package: io.atoi.tweak.revealinjector
+Conflicts: io.atoi.tweak.revealinjector
+Replaces: io.atoi.tweak.revealinjector
+Name: RevealInjector
+Version: 0.0.1
+Architecture: iphoneos-arm
+Depends: mobilesubstrate, preferenceloader, applist
+Maintainer: langyanduan <langyanduan@gmail.com>
+Author: langyanduan <langyanduan@gmail.com>
+Section: Tweaks
+Description: Dynamically loads Reveal into applications and plugins.
